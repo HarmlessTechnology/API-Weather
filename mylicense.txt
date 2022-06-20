@@ -1,0 +1,38 @@
+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+This version of API Weather
+is a fork (of sorts) of a
+tutorial program by
+@Keith Galli. This version,
+known as "API Weather" is 
+maintained, updated, and 
+expanded by Harmless Technology,
+credit to @Keith Galli for 
+the base program ideas.
+API Weather Copyright 2022
+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+TOS:
+By using this program you agree to our TOS (Terms of Service).
+-We do not collect or missuse your information intentionally.
+-You the user assume all risk associated with using this software.
+-You give up your right to hold anyone associated with the creation and maintenance
+of this program accountable for any legal issue as is related to this software.
+-We are not responsible for any damage, physical or digital, to you or your property,
+due to the use, missuse, or editing of this software.
+-You will provide your own legitimate API key from openweathermap.org
+-You will abide by the below distribution rules.
+
+Feel free to distribute this as you want,
+please give credit to the original program
+and this program (API Weather) though.
+Something like this works:
+|------------------------------------------------|
+|Program from: Harmless Technology's API Weather.|
+|Original program and concept based on           |
+|tutorial by @Keith Galli.                       |
+|------------------------------------------------|
+Should be displayed somewhere visible, both
+in a README or about file with the program,
+and on the page or method used for distribution
+(GitHub page for example) with a link to the 
+source of this program (API Weather GitHub page).

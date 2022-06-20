@@ -1,0 +1,40 @@
+***ABOUT API WEATHER***
+API WEATHER - Simple weather GUI for weather APIs, built using Python 3.9 and the openweathermap.org API.
+Code customized based on original from a Python GUI tutorial by @Keith Galli on YouTube
+https://www.youtube.com/watch?v=D8-snVfekto&ab_channel=KeithGalli
+Icon from openweathermap.org
+Bug fixes influenced by stack overflow
+Please see Options-->License Information
+
+***CHANGELOG***
+V 0.5 ALPHA: Compiled into installable exe, updated documentation, Fixed terminal window popup, Fixed certificate error
+V 0.4 ALPHA: Updated background, Added more weather information (additional conditions), Revised source code, Fixed image display bug,
+added text color customization capability
+V 0.3 ALPHA: Implemented about page function, Implemented API changer, Added license.txt, Added api_key.txt, Changed default background
+for compatability reasons, Revised source code and imports, Updated documentation
+V 0.2 ALPHA: Added about button and file, Added top and bottom menu bar, Added options button, Added program and version to GUI, 
+Implemented dark theme, Added notes on code, Made further revisions and clarifications to source code
+V 0.1 ALPHA: Program created and customized following said tutorial. Be sure to check out @Keith Galli on YouTube for a 
+tutorial and the original program! (Change notes: Changed API, Changed some variables and messages, Changed default theme)
+
+***PLANNED CHANGES***
+-Improve themes
+-Country selector in menu (For entering ZIP only)
+-Streamlined install and download process (BETA V 1.0 Feature)
+-Source code revision and streamlining
+
+***POSSIBLE CHANGES***
+-Data picker
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+This version of API Weather
+is a fork (of sorts) of a
+tutorial program by
+@Keith Galli. This version,
+known as "API Weather" is 
+maintained, updated, and 
+expanded by Harmeless Technology,
+credit to @Keith Galli for 
+the base program ideas.
+API Weather Copyright 2022
+-+-+-+-+-+-+-+-+-+-+-+-+-+-

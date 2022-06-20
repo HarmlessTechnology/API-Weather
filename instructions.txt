@@ -1,0 +1,17 @@
+***API WEATHER INSTRUCTION MANUAL***
+
+If you are using a zip code (ZIP), please specify country code (CC). For example: ZIP, CC
+
+If you want to change the background, find background.png and replace it with your file. MUST be another .png, this program can be picky about png vs jpg.
+
+****API key MUST BE CHANGED PRIOR TO USE. This will ensure the program works for you.**** 
+
+To change API key:
+(REQUIRES API key from openweathermap.org)
+To get key:
+-Sign up on openweathermap.org
+-Go to APIs
+-Select the current weather data API key
+-Put API key in the "Change API key" box under the Options menu.
+
+Last Update: V 0.5 ALPHA
